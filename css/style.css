@@ -203,7 +203,7 @@ body {
    .meu-nome {
       display: flex;
       flex-direction: column;
-      margin-top: 130px;
+      margin-top: 80px;
       text-align: center;
    }
 
@@ -314,12 +314,6 @@ body {
       margin-left: 0;
    }    
    
-   .about h2 {
-      font-size: 25px;
-   }
-   
-
-
    .about .sobre {
       width: 80%;
       margin: auto;
@@ -342,6 +336,10 @@ body {
 
    .about .projetos h2 {
       color: var(--color-secondary);
+   }
+
+   .about p {
+      font-size: 18px;
    }
 
    .about .projetos .boxes {
@@ -384,10 +382,6 @@ body {
    margin-bottom: 40px;
   
 }
-
-   
-
-   
 
 .habilidades .container2 .skills-wrapper {
    width: 30%;
